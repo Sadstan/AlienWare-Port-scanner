@@ -16,10 +16,11 @@ help = raw_input("[+] Digite -h [+] : ")
 
 if help == '-h':
     print"""
-        Codado by SadStan
-        Greetz: Diogo Makaveli
-        PortScan 1.0
-        AlienWare
+Codado by SadStan
+Greetz: Diogo@Makaveli - OpCoder - Júlia Siilva - Luis Henrique
+PortScan 1.0
+AlienWare
+ROSD SECURITY 2017
     """
 else:
     print"Opcao invalida"
